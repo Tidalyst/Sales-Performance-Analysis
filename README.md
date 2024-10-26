@@ -1,8 +1,8 @@
 # Sales-Performance-Analysis
 
-**Project Overview**
+**Project Overiew**
 
-As a data analyst at a mid-sized retail company. I've been provided with a dataset containing sales data and employee performance metrics. Your task is to perform a detailed analysis to provide insights into sales performance, employee efficiency, and overall trends.
+As a data analyst at a mid-sized retail company. I've been provided with a dataset containing sales data and employee performance metrics. My task is to perform a detailed analysis to provide insights into sales performance, employee efficiency, and overall trends.
 
 
 
